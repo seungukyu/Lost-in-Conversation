@@ -16,21 +16,6 @@
 
 
 
-## 🧪 Experimental Results
-
-<p align="center">
-  <img width="475" alt="Image" src="https://github.com/user-attachments/assets/8d034eac-5530-4ade-bfcb-0df6d94ebc15" />
-</p>
-
-- To assess the effect of dialogue context, we report averaged $\Delta ASR$ within each resource group $r$ relative to each target language group $t'$ ($r, t' \in \{High, Med, Low\}$).
-
-- A positive $\Delta ASR$ indicates that the preceding dialogues from resource group increase jailbreak success for the target language group, whereas negative values indicate a mitigating contextual effect. (Darker
-red cells indicate greater jailbreak sensitivity.)
-
-- Our results indicate that model safety can be sensitive to the language composition of preceding dialogue, motivating further investigation across a broader range of models and multilingual safety benchmarks.
-
-
-
 ## ✏️ How to use
 
 <div align="center">
